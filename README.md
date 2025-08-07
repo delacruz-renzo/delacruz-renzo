@@ -1,18 +1,17 @@
 <img src="portada/portada.jpeg" alt="Mi foto de portada" width="100%" />
 
 ## Hola 👋 ¡Soy Renzo!
+Soy bachiller en Ingeniería Geográfica por la Universidas Nacional Mayor de San Marcos (UNMSM), con una sólida formación y pasión por las tecnologías de información geográfica, la estadística y las ciencias ambientales. Tengo experiencia en teledetección (Remote Sensing), sistemas de información geográfica (GIS), ciencia de datos espaciales y en la evaluación de riesgos originados por fenómenos naturales.
 
-<!--
-**delacruz-renzo/delacruz-renzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí:
+- 🧪 Me interesa la investigación científica orientada al análisis territorial y ambiental.
+- 🛰️ Trabajo actualmente en el Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña (INAIGEM).
+- 📊 Estoy profundizando mis conocimientos en estadística, machine learning y ciencia de datos.
+- 🛠️ Tengo experiencia con software de procesamiento de imágenes satelitales como **ENVI**, **PCI Geomatics**, **SNAP Sentinel** y **Google Earth Engine**.
+- 🌍 Manejo herramientas de análisis espacial como **QGIS** y **ArcGIS**.
+- 💻 Utilizo **R** y **Python** para análisis estadístico, automatización de procesos y visualización de datos geoespaciales.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 ¿Hablamos?
+Puedes contactarme a través de:
+- 📧 Correo: renzoangeldelacruz@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/renzodelacruz](https://linkedin.com/in/renzodelacruz)
