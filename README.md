@@ -1,4 +1,6 @@
-## Hi there 👋
+<img src="portada/portada.jpeg" alt="Mi foto de portada" width="100%" />
+
+## Hola 👋 ¡Soy Renzo!
 
 <!--
 **delacruz-renzo/delacruz-renzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
