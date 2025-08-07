@@ -1,7 +1,7 @@
 <img src="portada/portada.jpeg" alt="Mi foto de portada" width="100%" />
 
 ## Hola 👋 ¡Soy Renzo!
-Soy bachiller en Ingeniería Geográfica por la Universidas Nacional Mayor de San Marcos (UNMSM), con una sólida formación y pasión por las tecnologías de información geográfica, la estadística y las ciencias ambientales. Tengo experiencia en teledetección (Remote Sensing), sistemas de información geográfica (GIS), ciencia de datos espaciales y en la evaluación de riesgos originados por fenómenos naturales.
+Soy bachiller en Ingeniería Geográfica por la Universidas Nacional Mayor de San Marcos, con una sólida formación y pasión por las tecnologías de información geográfica, la estadística y las ciencias ambientales. Tengo experiencia en sensoramiento remoto (teledetección), sistemas de información geográfica (GIS), ciencia de datos espaciales y en la evaluación de riesgos originados por fenómenos naturales.
 
 ### 🚀 Sobre mí:
 - 🧪 Me interesa la investigación científica orientada al análisis territorial y ambiental.
@@ -14,4 +14,4 @@ Soy bachiller en Ingeniería Geográfica por la Universidas Nacional Mayor de Sa
 ### 📫 ¿Hablamos?
 Puedes contactarme a través de:
 - 📧 Correo: renzoangeldelacruz@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/renzodelacruz](https://linkedin.com/in/renzodelacruz)
+- 💼 LinkedIn: https://www.linkedin.com/in/renzo-delacruz/
