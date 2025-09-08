@@ -7,7 +7,7 @@ Soy Ingeniero Geógrafo por la Universidas Nacional Mayor de San Marcos (UNMSM),
 - 🧪 Me interesa la investigación científica orientada al análisis territorial y ambiental.
 - 🛰️ Trabajo actualmente en el Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña (INAIGEM).
 - 📊 Estoy profundizando mis conocimientos en estadística, machine learning y ciencia de datos.
-- 🛠️ Tengo experiencia en el uso de software especializado para el procesamiento de imágenes satelitales, como **ENVI**, **PCI Geomatics** y **SNAP Sentinel**, así como en la plataforma de análisis geoespacial en la nube **Google Earth Engine**.
+- 🛠️ Tengo experiencia en el uso de software especializado para el procesamiento de imágenes satelitales, como **PCI Geomatics**, **ENVI** y **SNAP Sentinel**, así como en la plataforma de análisis geoespacial en la nube **Google Earth Engine**.
 - 🌍 Manejo herramientas de análisis espacial como **QGIS** y **ArcGIS**.
 - 💻 Utilizo **R** y **Python** para análisis estadístico, automatización de procesos y visualización de datos geoespaciales.
 
