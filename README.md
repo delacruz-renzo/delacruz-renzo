@@ -1,7 +1,7 @@
 <img src="portada/portada2.jpeg" alt="Mi foto de portada" width="100%" />
 
 ## Hola 👋 ¡Soy Renzo!
-Soy Ingeniero Geógrafo por la Universidas Nacional Mayor de San Marcos (UNMSM), con una sólida formación y pasión por las tecnologías en información geográfica, la estadística y las ciencias ambientales. Tengo experiencia en teledetección (Remote Sensing), sistemas de información geográfica (GIS), ciencia de datos espaciales (Spatial Data Science) y en la evaluación de riesgos originados por fenómenos naturales.
+Ingeniero Geógrafo por la Universidas Nacional Mayor de San Marcos (UNMSM), con una sólida formación y pasión por las tecnologías en información geográfica, la estadística y las ciencias ambientales. Tengo experiencia en teledetección (Remote Sensing), sistemas de información geográfica (GIS), ciencia de datos espaciales (Spatial Data Science) y en la evaluación de riesgos originados por fenómenos naturales.
 
 ### 🚀 Sobre mí:
 - 🧪 Me interesa la investigación científica orientada al análisis territorial y ambiental.
