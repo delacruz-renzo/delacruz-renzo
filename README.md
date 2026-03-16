@@ -4,7 +4,7 @@
 Ingeniero Geógrafo por la Universidas Nacional Mayor de San Marcos (UNMSM), con una sólida formación y pasión por las tecnologías en información geográfica, la estadística y las ciencias ambientales. Tengo experiencia en teledetección (Remote Sensing), sistemas de información geográfica (GIS), modelación hidrológica, ciencia de datos espaciales (Spatial Data Science) y en la evaluación de riesgos originados por fenómenos naturales.
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://www.deviantart.com/marioshi64/art/Sceptile-Sprite-Remix-876899885" />
 <p align="center">
   <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
 </p>
