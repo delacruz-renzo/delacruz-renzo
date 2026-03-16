@@ -3,9 +3,11 @@
 ## Hola 👋 ¡Soy Renzo!
 Ingeniero Geógrafo por la Universidas Nacional Mayor de San Marcos (UNMSM), con una sólida formación y pasión por las tecnologías en información geográfica, la estadística y las ciencias ambientales. Tengo experiencia en teledetección (Remote Sensing), sistemas de información geográfica (GIS), modelación hidrológica, ciencia de datos espaciales (Spatial Data Science) y en la evaluación de riesgos originados por fenómenos naturales.
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
+</p>
 
 ### 🚀 Sobre mí:
 - 🧪 Me interesa la investigación científica orientada al análisis territorial y ambiental.
